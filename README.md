@@ -9,9 +9,9 @@ Even tough these steps help, its more important to understand that these steps w
 ## What are we trying to achieve
 
 Android setup that will:
-1. minimize the amount of data collected on user by using privacy respecting software
-2. minimize amount of advertisement and other malware taking up users time and mental energy
-3. keep the device as usable as a default Android device would be
+1. Minimize the amount of data collected on user by using privacy respecting software
+2. Minimize amount of advertisement and other malware taking up users time and mental energy
+3. Keep the device as usable as a default Android device would be
 
 Even though privacy is nice, human contact is more important. In many cases mobile device is the primary way we achieve this human contact. We all have groups that we cannot loose and cannot move to a secure platform. Don't overdo it. Educate people where you can and limit your exposure.
 
@@ -49,11 +49,11 @@ In my setup I have three distinct levels. Communications apps (Signal and Slack)
 
 ## Signal
 
-FB and WhatsApp terms of service are getting out of hand. You have all seen the buzz. Luckily there is a privacy focused alternative with a better user experience in general. [Signal][signal] is my go to app for communication. Has everything whatsapp offers without owning your phone.
+FB and WhatsApp terms of service are getting out of hand. You have all seen the buzz. Luckily there is a privacy focused alternative with a better user experience in general. [Signal][signal] is my go to app for communication. Has everything WhatsApp offers without owning your phone.
 
-#### But i still need WhatsApp, Messenger or some other app that I don't want on my phone tracking me?
+#### "But I still need WhatsApp, Messenger or some other app that I don't want on my phone tracking me?"
 
-Luckily if you have a computer you can sandbox these applications. Android emulator you can run an Android device on your computer. Install whatever applications you need to still use on the emulator, verify whatsapp phone number using your real phone and continue using it in a controlled environment.
+Luckily if you have a computer you can sandbox these applications. Android emulator you can run an Android device on your computer. Install whatever applications you need to still use on the emulator, verify WhatsApp phone number using your real phone and continue using it in a controlled environment.
 
 To run an Android emulator:
 1. [Install Android Studio][studio]
